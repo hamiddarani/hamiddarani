@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software and Devops engineer at Tiddev compony
+I am currently a DevOps Engineer at TIDDev, focusing on automating workflows, maintaining systems, and managing monitoring solutions.
 
 
 ## 🌐 Socials:
